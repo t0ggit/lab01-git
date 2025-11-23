@@ -14,4 +14,4 @@ def main(
         print(f"Привет, {name}!")
 
 if __name__ == "__main__":
-    typer.run(main) # через typer
+    typer.run(main) # через typer, чтобы самим не реализовавыть механику выбора опций
