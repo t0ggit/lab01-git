@@ -1,5 +1,2 @@
-#!/usr/bin/env python3
-print("Hello appsec world ")
-
-#!/usr/bin/env python
-print "Hello appsec world "
+name = input("Введите ваше имя: ")
+print(f"Hello appsec world from @{name}")
