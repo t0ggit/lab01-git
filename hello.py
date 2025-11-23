@@ -14,4 +14,4 @@ def main(
         print(f"Привет, {name}!")
 
 if __name__ == "__main__":
-    typer.run(main)
+    typer.run(main) # через typer
