@@ -4,14 +4,7 @@
 <a href="https://daringfireball.net/projects/markdown"><img src="https://img.shields.io/static/v1?logo=markdown&logoColor=fff&label=&message=Markdown&color=36393f&style=flat" alt="Markdown"></a> 
 <a href="https://symbl.cc/en/unicode-table"><img src="https://img.shields.io/static/v1?logo=unicode&logoColor=fff&label=&message=Unicode&color=36393f&style=flat" alt="Unicode"></a> 
 <a href="https://shields.io"><img src="https://img.shields.io/static/v1?logo=shieldsdotio&logoColor=fff&label=&message=Shields&color=36393f&style=flat" alt="Shields"></a>
-<a href="https://img.shields.io/badge/Risk_Analyze-2448a2"><img src="https://img.shields.io/badge/Course-Risk_Analysis-2448a2" alt= "RA"></a> <img src="https://img.shields.io/badge/AppSec-2448a2" alt= "RA"></a> <img src="https://img.shields.io/badge/Contributor-Шмаков_И._С.-8b9aff" alt="Contributor Badge"></a></div>
-
-***
-
-<br>Салют :wave:, </br>
-Данная лабораторная работа посвещена изучению систем обмена данными. Работа позволит ознакомиться с базовыми навыками необходимыми для произведения `commit changes`, публикации изменний в удаленный репозиторий, обновлениями данных для них, `fork` и тд.
-
-Для сдачи данной работы также будет требоваться ответить на дополнительыне вопросы по описанным темам.
+<a href="https://img.shields.io/badge/Risk_Analyze-2448a2"><img src="https://img.shields.io/badge/Course-Risk_Analysis-2448a2" alt= "RA"></a> <img src="https://img.shields.io/badge/AppSec-2448a2" alt= "RA"></a> <img src="https://img.shields.io/badge/Contributor-Можжухин_А._Н.-8b9aff" alt="Contributor Badge"></a></div>
 
 ***
 
@@ -32,3 +25,16 @@
 - [x] 13. Составить `gist` отчет и отправить ссылку личным сообщением
 
 ***
+
+## Links
+
+- [Google Sheets](https://www.google.ru/intl/ru/sheets/about/)
+- [Google Docs](https://www.google.ru/intl/ru/docs/about/)
+- [GitHub](https://github.com)
+- [GitHub SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+- [Markdown](https://stackedit.io)
+- [Gist](https://gist.github.com)
+- [GitHub Personal Token](https://github.com/settings/tokens/new)
+- [GitHub CLI](https://cli.github.com)
+
+Copyright (c) 2025 Alexey Mozhzhukhin
