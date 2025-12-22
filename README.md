@@ -6,6 +6,8 @@
 <a href="https://shields.io"><img src="https://img.shields.io/static/v1?logo=shieldsdotio&logoColor=fff&label=&message=Shields&color=36393f&style=flat" alt="Shields"></a>
 <a href="https://img.shields.io/badge/Risk_Analyze-2448a2"><img src="https://img.shields.io/badge/Course-Risk_Analysis-2448a2" alt= "RA"></a> <img src="https://img.shields.io/badge/AppSec-2448a2" alt= "RA"></a> <img src="https://img.shields.io/badge/Contributor-Можжухин_А._Н.-8b9aff" alt="Contributor Badge"></a></div>
 
+Done
+
 ***
 
 ## [Задание](https://github.com/geminishkv/course_labs/tree/develop/labs/lab01)
